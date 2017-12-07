@@ -13,12 +13,16 @@ public class MapPanel extends JPanel
 	
 	public MapPanel(String FileName)
 	{
-		
+		int x;
 		if(FileName=="map1.xml")
-		_nRows=22;
+			x=607;
 		else
-			_nRows=31;
-		imgBackground=new Img("images\\BackGround.png", 0, 0, 670, 670);
+			x=350;
+		if(FileName=="map1.xml")
+			_nRows=22;
+		else
+			_nRows=19;
+		imgBackground=new Img("images\\Map2BackGround.jpg", 0, 0, 607, x);
 		_bSize=32;
 		_map=new Map(_nRows,"MapFiles\\"+FileName);
 		
