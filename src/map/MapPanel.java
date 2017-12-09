@@ -13,16 +13,17 @@ public class MapPanel extends JPanel
 	
 	public MapPanel(String FileName)
 	{
-		int x;
+		
 		if(FileName=="map1.xml")
-			x=607;
-		else
-			x=350;
-		if(FileName=="map1.xml")
+		{
 			_nRows=22;
+			imgBackground=new Img("images\\Map1BackGround.jpg", 0, 0, 672, 672);
+		}
 		else
+		{
 			_nRows=19;
-		imgBackground=new Img("images\\Map2BackGround.jpg", 0, 0, 607, x);
+			imgBackground=new Img("images\\Map2BackGround.jpg", 0, 0, 609, 353);
+		}
 		_bSize=32;
 		_map=new Map(_nRows,"MapFiles\\"+FileName);
 		
@@ -38,8 +39,7 @@ public class MapPanel extends JPanel
 	private void paintGame(Graphics2D g)
 	{
 		Color c;
-		//c=new Color(255, 255, 255, 4); 
-		c=new Color(255,255,0);
+		c=new Color(255, 255, 255, 4); 	
 		g.setColor(c);
 		for (int i = 0; i < _nRows * _nRows; i++) 
 		{
