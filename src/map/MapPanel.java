@@ -2,6 +2,10 @@ package map;
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
+import java.awt.Image;
+import java.net.URL;
+
+import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 import graphics.Img;
 public class MapPanel extends JPanel
@@ -10,6 +14,7 @@ public class MapPanel extends JPanel
 	private int _bSize;
 	private Img imgBackground;
 	private Map _map;
+	private Img _bananaObj;
 	
 	public MapPanel(String FileName)
 	{
@@ -70,8 +75,8 @@ public class MapPanel extends JPanel
 				g.drawLine((i % _nRows) * _bSize    , (i /_nRows) * _bSize, 
 						
 							(i % _nRows)* _bSize  , ((i / _nRows) * _bSize)+_bSize);
-			}
-			
+			}		
+		
 		}
 	}
 }
