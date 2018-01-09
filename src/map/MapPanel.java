@@ -15,6 +15,8 @@ public class MapPanel extends JPanel
 	private Img imgBackground;
 	private Map _map;
 	private Img _bananaObj;
+	private Img _pacManObj;
+	private Img _cherryObj;
 	
 	public MapPanel(String FileName)
 	{
@@ -31,7 +33,9 @@ public class MapPanel extends JPanel
 		}
 		_bSize=32;
 		_map=new Map(_nRows,"MapFiles\\"+FileName);
-		
+		_bananaObj=new Img("images\\GlowingBananaObject.gif", 0, 0, 30, 30);
+		_pacManObj=new Img("images\\Trans Pacan_Right.png", 0, 0, 30, 30);
+		_cherryObj=new Img("images\\CherryObject.png",0,0,30,30);
 	}
 	protected void paintComponent(Graphics g1) 
 	{
@@ -45,7 +49,7 @@ public class MapPanel extends JPanel
 	{
 		Color c;
 		c=new Color(255, 255, 255, 4); 	
-		g.setColor(c);
+		g.setColor(Color.green);
 		for (int i = 0; i < _nRows * _nRows; i++) 
 		{
 			
@@ -76,6 +80,25 @@ public class MapPanel extends JPanel
 						
 							(i % _nRows)* _bSize  , ((i / _nRows) * _bSize)+_bSize);
 			}		
+			if ((_map.get_map()[i / _nRows][i % _nRows] & 16) != 0) //Banana
+			{
+				_bananaObj.setImgCords((i % _nRows)* _bSize +_bSize/3,(i / _nRows)* _bSize+_bSize/3);
+				_bananaObj.setImgSize(22, 22);
+				_bananaObj.drawImg(g);
+			}
+			if ((_map.get_map()[i / _nRows][i % _nRows] & 32) != 0) //PacMan
+			{
+				_pacManObj.setImgCords((i % _nRows)* _bSize +_bSize/3,(i / _nRows)* _bSize+_bSize/3);
+				_pacManObj.setImgSize(22, 22);
+				_pacManObj.drawImg(g);
+			}
+			if ((_map.get_map()[i / _nRows][i % _nRows] & 64) != 0) //Cherry
+			{
+				_cherryObj.setImgCords((i % _nRows)* _bSize +_bSize/3,(i / _nRows)* _bSize+_bSize/3);
+				_cherryObj.setImgSize(22, 22);
+				_cherryObj.drawImg(g);
+			}
+
 		
 		}
 	}

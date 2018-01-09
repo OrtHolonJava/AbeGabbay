@@ -23,191 +23,203 @@
 </Line>
 <Line>
 <Area value="15"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="16"/>
-<Area value="0"/>
+<!--Cherry-->
+<Area value="64"/>
+<!--Cherry-->
 <Area value="16"/>
 <Area value="16"/>
-<Area value="0"/>
-<Area value="0"/>
+<Area value="16"/>
 <Area value="15"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
 <Area value="15"/>
-</Line>
-<Line>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="15"/>
-<Area value="15"/>
-<Area value="15"/>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="15"/>
-<Area value="0"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<!--Cherry-->
+<Area value="64"/>
+<!--Cherry-->
 <Area value="15"/>
 </Line>
 <Line>
 <Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-</Line>
-<Line>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="0"/>
+<Area value="16"/>
 <Area value="15"/>
 <Area value="15"/>
-<Area value="0"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="16"/>
 <Area value="15"/>
 <Area value="15"/>
-<Area value="0"/>
 <Area value="15"/>
 <Area value="15"/>
-<Area value="0"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="16"/>
 <Area value="15"/>
 <Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="0"/>
+<Area value="16"/>
 <Area value="15"/>
 </Line>
 <Line>
 <Area value="15"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
+<Area value="16"/>
 <Area value="15"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
 <Area value="15"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="15"/>
-</Line>
-<Line>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="15"/>
-<Area value="15"/>
-<Area value="15"/>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="15"/>
-<Area value="0"/>
-<Area value="15"/>
-<Area value="0"/>
+<Area value="16"/>
 <Area value="15"/>
 </Line>
 <Line>
 <Area value="15"/>
-<Area value="0"/>
+<Area value="16"/>
 <Area value="15"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
+<Area value="16"/>
 <Area value="15"/>
-<Area value="0"/>
 <Area value="15"/>
-</Line>
-<Line>
-<Area value="15"/>
-<Area value="0"/>
+<Area value="16"/>
 <Area value="15"/>
 <Area value="15"/>
 <Area value="0"/>
 <Area value="15"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
 <Area value="15"/>
-<Area value="0"/>
+<Area value="16"/>
 <Area value="15"/>
 <Area value="15"/>
-<Area value="0"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="16"/>
 <Area value="15"/>
 </Line>
 <Line>
 <Area value="15"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
 <Area value="15"/>
+<!--Ghost Spot-->
 <Area value="0"/>
 <Area value="0"/>
 <Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
+<!--Ghost Spot-->
 <Area value="15"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
-<Area value="0"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="15"/>
+</Line>
+<Line>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="15"/>
+<Area value="15"/>
+<Area value="15"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+</Line>
+<Line>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<!--PacMan Spot-->
+<Area value="32"/>
+<!--PacMan Spot-->
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+</Line>
+<Line>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="15"/>
+</Line>
+<Line>
+<Area value="15"/>
+<!--Cherry-->
+<Area value="64"/>
+<!--Cherry-->
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="15"/>
+<Area value="16"/>
+<Area value="16"/>
+<Area value="16"/>
+<!--Cherry-->
+<Area value="64"/>
+<!--Cherry-->
 <Area value="15"/>
 </Line>
 <Line>
